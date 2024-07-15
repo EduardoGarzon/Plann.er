@@ -1,4 +1,4 @@
-import { X, Tag, Calendar, Plus } from "lucide-react";
+import { X, Tag, Calendar} from "lucide-react";
 import { Button } from "../../components/button";
 
 interface CreateActivityModalProps {
